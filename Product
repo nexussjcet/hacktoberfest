@@ -1,0 +1,9 @@
+#include<iostream.h>
+void main ()
+{
+int a,b;
+cout<<"enter two nos";
+cin>>a>>b;
+cout<<"\n your product is"<<a*b;
+getch();
+}
